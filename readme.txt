@@ -3,7 +3,7 @@ Contributors: swadeshswain
 Tags: redirect, custom search, wp search url , search url
 Requires at least: 3.3
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,3 +32,7 @@ This plugin change default wordpres  `?s=swadesh` search URLs to the  `/search/s
 = 1.0 =
 
 Plugin change the default search url to custom search url
+
+= 2.0 =
+
+add option page
