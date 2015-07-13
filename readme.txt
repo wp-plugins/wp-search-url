@@ -25,6 +25,8 @@ This plugin change default wordpres  `?s=swadesh` search URLs to the  `/search/s
 
 2. Image 2
 
+3. Image 3
+
 
 
 == Changelog ==
